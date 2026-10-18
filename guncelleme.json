@@ -23,6 +23,23 @@
           "Lisans saatleri Türkiye saatine göre"
         ]
       }
+    },
+    {
+      "kod": "KN-20261018-1507",
+      "surum": "1.0.2",
+      "indirme": "https://github.com/hayrihoca/kocnet-lisans/releases/download/v1.0.2/KocNet-Randevu-1.0.2.exe",
+      "sha256": "553adadf99ec354dee01c902073f0e8f45347a6dffd5868a1567075c84dfec9a",
+      "zorunlu_mu": false,
+      "tarih": "2026-10-18 15:07",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Yeni sol menü: bölümler artık ekranın solunda, ikonlu ve daha düzenli"
+        ],
+        "duzeltmeler": [],
+        "iyilestirmeler": [
+          "Kurum adı, slogan ve dönem menünün tepesinde görünüyor"
+        ]
+      }
     }
   ],
   "destek_whatsapp": "905528370073"
