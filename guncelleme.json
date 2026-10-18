@@ -75,6 +75,22 @@
           "Sol menü küçük ekranlarda kendini sıkıştırır; tüm bölümler her zaman görünür"
         ]
       }
+    },
+    {
+      "kod": "KN-20261018-1806",
+      "surum": "1.0.5",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar/KocNet-Randevu-1.0.5.exe",
+      "sha256": "41c4b78c2d8c786a4b02bb471c5c22c909fd854e0cdf290361a949e8266c42b2",
+      "zorunlu_mu": false,
+      "tarih": "2026-10-18 18:06",
+      "notlar": {
+        "yeni_ozellikler": [],
+        "duzeltmeler": [],
+        "iyilestirmeler": [
+          "Öğrenciler ekranındaki düğmeler sağda alt alta, hepsi tam görünür",
+          "Sol menü yazıları büyütüldü"
+        ]
+      }
     }
   ],
   "destek_whatsapp": "905528370073"
