@@ -57,6 +57,24 @@
           "Güncelleme ve lisans bağlantıları daha güvenilir"
         ]
       }
+    },
+    {
+      "kod": "KN-20261018-1756",
+      "surum": "1.0.4",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar/KocNet-Randevu-1.0.4.exe",
+      "sha256": "63dc1996b75f549188e9ab4e87705eec62a468e501517f2336041322c32ab0f2",
+      "zorunlu_mu": false,
+      "tarih": "2026-10-18 17:56",
+      "notlar": {
+        "yeni_ozellikler": [],
+        "duzeltmeler": [
+          "Küçük ekranlarda program penceresinin ekrana sığmaması düzeltildi",
+          "Güncellemenin bazen \"doğrulanamadı\" hatası vermesi düzeltildi"
+        ],
+        "iyilestirmeler": [
+          "Sol menü küçük ekranlarda kendini sıkıştırır; tüm bölümler her zaman görünür"
+        ]
+      }
     }
   ],
   "destek_whatsapp": "905528370073"
