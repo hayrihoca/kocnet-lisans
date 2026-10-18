@@ -1,0 +1,29 @@
+{
+  "surumler": [
+    {
+      "kod": "KN-20261018-1226",
+      "surum": "1.0.1",
+      "indirme": "https://github.com/hayrihoca/kocnet-lisans/releases/download/v1.0.1/KocNet-Randevu-1.0.1.exe",
+      "sha256": "70ac376046f984b5cf1bb3ccc273c999954992dab697c3114d3aab2b9a72c3c6",
+      "zorunlu_mu": false,
+      "tarih": "2026-10-18 12:26",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Yeni giriş ekranı (lacivert-altın tasarım, Beni Hatırla)",
+          "Görüşme notu: her randevuya not yazma, not simgesi ve önizleme",
+          "Ayarlar > Lisans: lisans durumu ve makine kimliği",
+          "Ayarlar > Güncelleme: güncelleme kodu ile yeni sürüm alma",
+          "Ayarlar > Destek: destek raporu ve WhatsApp ile destek"
+        ],
+        "duzeltmeler": [
+          "Şifre göster/gizle (göz) simgesinin tıklanmaması düzeltildi"
+        ],
+        "iyilestirmeler": [
+          "Logo alanı büyütüldü",
+          "Lisans saatleri Türkiye saatine göre"
+        ]
+      }
+    }
+  ],
+  "destek_whatsapp": "905528370073"
+}
