@@ -40,6 +40,23 @@
           "Kurum adı, slogan ve dönem menünün tepesinde görünüyor"
         ]
       }
+    },
+    {
+      "kod": "KN-20261018-1732",
+      "surum": "1.0.3",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar/KocNet-Randevu-1.0.3.exe",
+      "sha256": "e3c7057c1c120b93563196e97155da2e39c53dc9bf23c3a425d04a2b6e1a2349",
+      "zorunlu_mu": false,
+      "tarih": "2026-10-18 17:32",
+      "notlar": {
+        "yeni_ozellikler": [],
+        "duzeltmeler": [
+          "Bazı bilgisayarlarda güncellemenin \"indirilemedi\" hatası vermesi düzeltildi"
+        ],
+        "iyilestirmeler": [
+          "Güncelleme ve lisans bağlantıları daha güvenilir"
+        ]
+      }
     }
   ],
   "destek_whatsapp": "905528370073"
