@@ -39,6 +39,26 @@
           "Güncelleme paketi eski program kopyalarını bulup temizleyebiliyor ve masaüstüne tek doğru kısayol koyuyor"
         ]
       }
+    },
+    {
+      "kod": "YT-20261022-1758",
+      "surum": "1.0.3",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_yoklama/YoklamaTakip-1.0.3.zip",
+      "sha256": "1bc08c05ae85c859f48f0718cd098f9592611e1aaa813b1bfe32999c146be5ff",
+      "zorunlu_mu": false,
+      "tarih": "2026-10-22 17:58",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Güncelleme sırasında ekranda \"Yoklama Takip güncelleniyor, lütfen bekleyin\" penceresi görünür"
+        ],
+        "duzeltmeler": [
+          "Güncelleme sürerken program tekrar açılırsa güncellemenin iptal olması sorunu giderildi"
+        ],
+        "iyilestirmeler": [
+          "Yavaş bilgisayarlar için güncelleme bekleme süreleri uzatıldı",
+          "Güncelleme öncesi \"program kendiliğinden açılacak, kendiniz açmayın\" uyarısı"
+        ]
+      }
     }
   ]
 }
