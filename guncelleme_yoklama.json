@@ -1,0 +1,24 @@
+{
+  "surumler": [
+    {
+      "kod": "YT-20261022-1045",
+      "surum": "1.0.1",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_yoklama/YoklamaTakip-1.0.1.zip",
+      "sha256": "835705c3ead7584b4de038655b187b3f8aa372ecb7c5222c1a964dcefea66ca1",
+      "zorunlu_mu": false,
+      "tarih": "2026-10-22 10:45",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Ayarlar > Program Güncelleme: güncelleme kodunu yazıp Yenile'ye basarak program güncellenir",
+          "Yoklama ekranında toplu işaretleme: çok öğrenciyi seçip tek tıkla Geldi / Gelmedi / Geç / İzinli",
+          "\"Boş kalanları Geldi yap\" düğmesi",
+          "Öğrenciler listesinde Kayıt Tarihi; en yeni kayıtlar en altta ve ilk gün yeşil"
+        ],
+        "duzeltmeler": [],
+        "iyilestirmeler": [
+          "Güncelleme öncesi veriler otomatik yedeklenir; yeni sürüm açılmazsa eski sürüme kendiliğinden dönülür"
+        ]
+      }
+    }
+  ]
+}
