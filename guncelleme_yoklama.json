@@ -19,6 +19,26 @@
           "Güncelleme öncesi veriler otomatik yedeklenir; yeni sürüm açılmazsa eski sürüme kendiliğinden dönülür"
         ]
       }
+    },
+    {
+      "kod": "YT-20261022-1721",
+      "surum": "1.0.2",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_yoklama/YoklamaTakip-1.0.2.zip",
+      "sha256": "13dee3cf8df048cc6af8f17bbd3d3519a8f541fa71ed4291da4e3c487e3ce009",
+      "zorunlu_mu": false,
+      "tarih": "2026-10-22 17:21",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Devamsızlık Tarihçesi PDF'i yenilendi: kurumsal başlık, öğrenci kartı, renkli özet kartları, oturum dağılımı, imza alanları",
+          "PDF'te kaç günlük yoklama olduğu yazıyor (örn. 44 günlük yoklama · 44 günde 88 oturum)"
+        ],
+        "duzeltmeler": [
+          "Program açıldıktan sonra ilk alınan tarihçe PDF'i not içeriyorsa oluşmama hatası giderildi"
+        ],
+        "iyilestirmeler": [
+          "Güncelleme paketi eski program kopyalarını bulup temizleyebiliyor ve masaüstüne tek doğru kısayol koyuyor"
+        ]
+      }
     }
   ]
 }
