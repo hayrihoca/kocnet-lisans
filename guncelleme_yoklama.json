@@ -59,6 +59,26 @@
           "Güncelleme öncesi \"program kendiliğinden açılacak, kendiniz açmayın\" uyarısı"
         ]
       }
+    },
+    {
+      "kod": "YT-20261023-1029",
+      "surum": "1.0.4",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_yoklama/YoklamaTakip-1.0.4.zip",
+      "sha256": "c6a4ed90da41e980256202773e5c174fb8d6b31416375b4f98bbacf6e20fa2a8",
+      "zorunlu_mu": false,
+      "tarih": "2026-10-23 10:29",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Ayarlar > Program Güncelleme'de güncelleme günlüğü görünür (bir sorun olursa nedeni yazar)"
+        ],
+        "duzeltmeler": [
+          "Kodla güncellemede bazı bilgisayarlarda program kapanıp yeni sürümün hiç açılmaması giderildi (güncelleme artık PowerShell kullanmıyor)",
+          "Güncelleme kodu alanı artık her zaman çalışan sürümün kodunu gösteriyor"
+        ],
+        "iyilestirmeler": [
+          "Elle güncelleme paketi PowerShell engelli bilgisayarlarda da kurulum yapabiliyor"
+        ]
+      }
     }
   ]
 }
