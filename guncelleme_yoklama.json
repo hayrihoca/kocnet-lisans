@@ -79,6 +79,21 @@
           "Elle güncelleme paketi PowerShell engelli bilgisayarlarda da kurulum yapabiliyor"
         ]
       }
+    },
+    {
+      "kod": "YT-20261023-1335",
+      "surum": "1.0.5",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_yoklama/YoklamaTakip-1.0.5.zip",
+      "sha256": "7facc8a8fdad40ea208096935b39d401ff86e3b44a62d65bfcbd6cc0406167cb",
+      "zorunlu_mu": false,
+      "tarih": "2026-10-23 13:35",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Yoklama Takip'e özel simge: masaüstü kısayolu, program penceresi ve görev çubuğunda yoklama panosu simgesi"
+        ],
+        "duzeltmeler": [],
+        "iyilestirmeler": []
+      }
     }
   ]
 }
