@@ -144,6 +144,25 @@
         "duzeltmeler": [],
         "iyilestirmeler": []
       }
+    },
+    {
+      "kod": "YT-20261106-1529",
+      "surum": "1.0.9",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_yoklama/YoklamaTakip-1.0.9.zip",
+      "sha256": "f4e33d977625a26ac330139d47beeca0dbb393c20426ad1c4f12de3ffdf660c4",
+      "zorunlu_mu": false,
+      "tarih": "2026-11-06 15:29",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Devamsızlık artık gün olarak sayılıyor: aynı gün iki oturuma gelmeyen 1 gün, tek oturuma gelmeyen yarım gün (Tarihçe, PDF, Genel Rapor, Erken Uyarı)"
+        ],
+        "duzeltmeler": [
+          "Veliye verilen PDF'te aynı günün iki oturumu iki gün gibi görünmüyor"
+        ],
+        "iyilestirmeler": [
+          "Erken uyarı sınırı 3 güne indi; ardışık devamsızlık üst üste 2 tam gün sayılıyor; yarım günler listede ayrıca yazıyor"
+        ]
+      }
     }
   ]
 }
