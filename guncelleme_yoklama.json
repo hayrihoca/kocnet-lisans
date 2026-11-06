@@ -113,6 +113,22 @@
           "Aynı öğrencinin velisine aynı gün ikinci günlük özet gitmez"
         ]
       }
+    },
+    {
+      "kod": "YT-20261106-1058",
+      "surum": "1.0.7",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_yoklama/YoklamaTakip-1.0.7.zip",
+      "sha256": "1e6de1d339ebf3b4184c46a0c2378cd3800c6e14804a9acce88683a6909d8d87",
+      "zorunlu_mu": false,
+      "tarih": "2026-11-06 10:58",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Yan Masa Verileri: ana masa, yan masadaki yoklama verilerini aynı ağ üzerinden şifreli alır ve salt okunur görüntüler (Tarihçe, Erken Uyarı, Raporlar)",
+          "Ayarlar > Veri Paylaşımı: yan masada paylaşımı açma ve paylaşım kodu"
+        ],
+        "duzeltmeler": [],
+        "iyilestirmeler": []
+      }
     }
   ]
 }
