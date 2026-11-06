@@ -129,6 +129,21 @@
         "duzeltmeler": [],
         "iyilestirmeler": []
       }
+    },
+    {
+      "kod": "YT-20261106-1414",
+      "surum": "1.0.8",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_yoklama/YoklamaTakip-1.0.8.zip",
+      "sha256": "2e48957f93683def5b335db9e706786dd2718face9a6b41fc5bf8a2201c9a068",
+      "zorunlu_mu": false,
+      "tarih": "2026-11-06 14:14",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Devamsızlık Tarihçesi PDF'inde yoklamaların tarih aralığı yazıyor (örn. 21 günde 40 oturum · 20.10.2026 – 06.11.2026)"
+        ],
+        "duzeltmeler": [],
+        "iyilestirmeler": []
+      }
     }
   ]
 }
