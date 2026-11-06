@@ -163,6 +163,21 @@
           "Erken uyarı sınırı 3 güne indi; ardışık devamsızlık üst üste 2 tam gün sayılıyor; yarım günler listede ayrıca yazıyor"
         ]
       }
+    },
+    {
+      "kod": "YT-20261106-2115",
+      "surum": "1.0.10",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_yoklama/YoklamaTakip-1.0.10.zip",
+      "sha256": "3be69c42f40b0107bcf39a4baea5b7c5af83cfa680842ade746a41f01911ffbb",
+      "zorunlu_mu": false,
+      "tarih": "2026-11-06 21:15",
+      "notlar": {
+        "yeni_ozellikler": [],
+        "duzeltmeler": [
+          "WhatsApp şablon metni düzeltildi: eski metin kurum adıyla bittiği için Meta tarafından reddediliyordu; artık \"... {kurum} olarak iyi günler dileriz.\" diye bitiyor"
+        ],
+        "iyilestirmeler": []
+      }
     }
   ]
 }
