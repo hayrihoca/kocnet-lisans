@@ -94,6 +94,25 @@
         "duzeltmeler": [],
         "iyilestirmeler": []
       }
+    },
+    {
+      "kod": "YT-20261106-1014",
+      "surum": "1.0.6",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_yoklama/YoklamaTakip-1.0.6.zip",
+      "sha256": "01e13c2d9cdaad08e4a0b2c99dc62e37e313d4644e36daa09b0fe419b6d192dd",
+      "zorunlu_mu": false,
+      "tarih": "2026-11-06 10:14",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Yoklama ekranında \"💬 Velilere WhatsApp\": o günün yoklamasını tek tıkla tüm velilere (ya da yalnız Gelmedi / Geç olanlara) WhatsApp ile gönderme",
+          "Ayarlar > WhatsApp Ayarları (resmî WhatsApp Business Cloud API; Test Kipi varsayılan açık)",
+          "SMS / WhatsApp Geçmişi: WhatsApp gönderimleri de kanal bilgisiyle listelenir"
+        ],
+        "duzeltmeler": [],
+        "iyilestirmeler": [
+          "Aynı öğrencinin velisine aynı gün ikinci günlük özet gitmez"
+        ]
+      }
     }
   ]
 }
