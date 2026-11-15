@@ -1,0 +1,27 @@
+{
+  "surumler": [
+    {
+      "kod": "CS-20261115-0947",
+      "surum": "1.0.0",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_salon/CalismaSalonu-1.0.0.zip",
+      "sha256": "614c91454bf931a4bc1b9eddc51b04f3f7f69fb7f213a09b4f9ba1e622be426a",
+      "zorunlu_mu": false,
+      "tarih": "2026-11-15 09:47",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Uzaktan güncelleme: Ayarlar > Program Güncelleme'ye kod yazınca program kendini yeniler",
+          "Programın içinde sesli Kullanım Videosu (sol menü altında)",
+          "Bekleme listesi ayrı defter: kayıtsız aday, telefon, sınav türü, Arandı bilgisi",
+          "Silinen öğrenciler arşivi (Silinenler) ve geri yükleme",
+          "Paketsiz öğrenci de masaya oturabilir"
+        ],
+        "duzeltmeler": [],
+        "iyilestirmeler": [
+          "Kasa ve Giderler ekranları sadeleşti; dönem düğmeleri ve büyük özet kartları",
+          "Öğrencilerde Aktif / Pasif / Tümü / Silinenler düğmeleri, tek tıkla Pasife Al",
+          "Üyeliklerde Paketi Yenile"
+        ]
+      }
+    }
+  ]
+}
