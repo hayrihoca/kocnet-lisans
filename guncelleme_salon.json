@@ -41,6 +41,23 @@
           "Kullanıcı kartı ve tek tık Çıkış düğmesi"
         ]
       }
+    },
+    {
+      "kod": "CS-20261115-1424",
+      "surum": "1.0.2",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_salon/CalismaSalonu-1.0.2.zip",
+      "sha256": "7dc2e71e9f873865d1566ba4135516d48bd74e7048859dd61570c06f5a3a2552",
+      "zorunlu_mu": false,
+      "tarih": "2026-11-15 14:24",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Aktif paketi olan öğrenciyi silerken ya da pasife alırken artık hata vermiyor: aynı pencereden 'Paketi İptal Et ve Sil' / 'Paketi İptal Et ve Pasife Al' ile tek adımda bitiyor"
+        ],
+        "duzeltmeler": [],
+        "iyilestirmeler": [
+          "Pencerede paketin adı, bitişi, ödenen ve kalan borç gösteriliyor; istenirse Üyelikler ekranına tek tıkla geçiliyor"
+        ]
+      }
     }
   ]
 }
