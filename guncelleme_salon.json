@@ -22,6 +22,25 @@
           "Üyeliklerde Paketi Yenile"
         ]
       }
+    },
+    {
+      "kod": "CS-20261115-1113",
+      "surum": "1.0.1",
+      "indirme": "https://raw.githubusercontent.com/hayrihoca/kocnet-lisans/main/dosyalar_salon/CalismaSalonu-1.0.1.zip",
+      "sha256": "a94c329ffd16cd9070f74cf8d6deaac168234b6ea4b73fb2be78fb15b726ead4",
+      "zorunlu_mu": false,
+      "tarih": "2026-11-15 11:13",
+      "notlar": {
+        "yeni_ozellikler": [
+          "Sol menü yenilendi: büyük ve net logo kartı, simgeli düğmeler, seçili sayfada altın vurgu, gruplu menü",
+          "Kullanım videosu yenilendi: daha akıcı ve vurgulu anlatım, Pasife Al ile Sil farkı anlatılıyor"
+        ],
+        "duzeltmeler": [],
+        "iyilestirmeler": [
+          "Öğrenciler ekranında Pasife Al ile Sil arasındaki fark açıkça yazıyor (ipuçları ve alt bilgi satırı)",
+          "Kullanıcı kartı ve tek tık Çıkış düğmesi"
+        ]
+      }
     }
   ]
 }
